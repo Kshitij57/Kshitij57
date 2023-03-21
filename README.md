@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kshitij57
+- 👋 Hi, I’m @Kshitij Umarkar
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Open Source Projects & Freelancing
