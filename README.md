@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kshitij Umarkar 
-- 👀 I’m Software developer
+- 👀 I’m Software developer actively looking for opportunity
 - 🌱 My Tech Stack are Java | Spring Boot | Hibernate |MySQL | Microservices.
 - 💞️ I’m looking to collaborate on Open Source Projects & Freelancing
 - 📫 How to reach me kshitijumarkar7@gmail.com
